@@ -3,10 +3,10 @@
 ### Module (Required)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| OS & Packages                     | ProLinux                                                        |                                                                  |
+| OS & Packages                     | ProLinux8.2                                                     |                                                                  |
 | External DNS                      |                                                                 |                                                                  |
 | Podman                            |                                                                 |                                                                  |
-| Image Registry - Docker           | v2                                                              |                                                                  |
+| Image Registry - Docker           | Docker version 20.10.12                                         |                                                                  |
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  |                                                                  |
 | CNI - Calico                      | 3.16.6                                                          |                                                                  |
