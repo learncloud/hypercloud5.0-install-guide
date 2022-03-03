@@ -3,9 +3,9 @@
 ### Module (Required)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| OS & Packages                     | ProLinux8.2                                                     | **1.**                                                                 |
+| OS & Packages                     | ProLinux8.2                                                     |                                                                  |
 | External DNS                      |                                                                 |                                                                  |
-| Image Registry - Docker           | Docker version 20.10.12                                         |                                                                  |
+| Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  |                                                                  |
 | CNI - Calico                      | 3.16.6                                                          |                                                                  |
