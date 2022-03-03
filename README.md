@@ -3,9 +3,8 @@
 ### Module (Required)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| OS & Packages                     | ProLinux8.2                                                     |                                                                  |
+| OS & Packages                     | ProLinux8.2                                                     | **1.**                                                                 |
 | External DNS                      |                                                                 |                                                                  |
-| Podman                            |                                                                 |                                                                  |
 | Image Registry - Docker           | Docker version 20.10.12                                         |                                                                  |
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  |                                                                  |
