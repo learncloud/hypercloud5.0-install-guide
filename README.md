@@ -21,9 +21,9 @@
 
 <br><br>
 ### Module (Recommended)
-| Module                            | Version                                                         | URL                                                              |
-| --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            |
+| Module                            | Version                                                         | URL                                                              | ETC |
+| --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |     |
+| Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            |     |
 
 
 
