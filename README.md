@@ -22,7 +22,11 @@
 
 
 
-# 아래는 공사중
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br>
+# 아래는 아직 미완성 
 
 ### Module (Recommended)
 | Module                            | Version                                                         | URL                                                              |
@@ -37,12 +41,6 @@
 | AWX Operator                      |                                                                 |                                                                  |
 
 
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br>
 # 아래는 아직 미완성 
 
 
