@@ -3,7 +3,7 @@
 ### Module (Required)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| OS & Packages                     | ProLinux8.2                                                     |                                                                  |
+| OS & Packages                     | ProLinux8.2                                                     | https://github.com/learncloud/build-local-repo-prolinux8.2       |
 | External DNS                      |                                                                 |                                                                  |
 | Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
