@@ -9,17 +9,17 @@
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  | https://github.com/learncloud/install-k8s-5.0                    |
 | CNI - Calico                      | 3.16.6                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cni-5.0    |
-| CSI - NFS                         |                                                                 |                                                                  |
-| CSI - Ceph                        |                                                                 |                                                                  |
 | Cert Manager                      | v1.5.4                                                          |                                                                  |
 | Ingress Controller - nginx        | 0.33.0                                                          |                                                                  |
-| GitLab                            |                                                                 |                                                                  |
 | Helm Operator                     |                                                                 |                                                                  |
+| CSI - NFS                         |                                                                 |                                                                  |
 | Prometheus                        | v2.11.0                                                         |                                                                  |
+| MetalLB                           | v0.9.3                                                         |                                                                  |
 | HyperAuth                         | b1.1.1.37                                                       |                                                                  |
 | HyperCloud 5 API Server, Operator | v5.0.26.6, v5.0.25.16                                           |                                                                  |
 | HyperCloud Console, Operator      | 0.5.1.32, 5.1.0.1                                               |                                                                  |
-
+| CSI - Ceph                        |                                                                 |                                                                  |
+| GitLab                            |                                                                 |                                                                  |
 
 
 
@@ -34,7 +34,6 @@
 | Tekton CI/CD                      | Pipeline: v0.26.0<br>Trigger: v0.15.0<br>CI/CD Operator: v0.4.2 | https://github.com/tmax-cloud/install-tekton/tree/5.0            |
 | Catalog Controller                | v0.3.0                                                          | https://github.com/tmax-cloud/install-catalog/tree/5.0           |
 | Template ServiceBroker            | 0.1.3                                                           | https://github.com/tmax-cloud/install-tsb/tree/tsb-5.0           |
-| MetalLB                           | v0.9.3                                                          | https://github.com/tmax-cloud/install-metallb/tree/5.0           |
 | Registry Operator                 | v0.3.1                                                          | https://github.com/tmax-cloud/install-registry-operator/tree/5.0 |
 | CAPI                              | v0.3.6                                                          | https://github.com/tmax-cloud/install-capi/tree/5.0              |
 | KubeFed                           | v0.3.0                                                          | https://github.com/tmax-cloud/install-federation/tree/5.0        |
