@@ -19,8 +19,11 @@
 | HyperCloud Console, Operator      | 0.5.1.32, 5.1.0.1                                               | https://github.com/learncloud/install-console-5.0                |
 | CSI - Ceph                        |                                                                 |                                                                  |
 
-
-
+<br><br>
+### Module (Recommended)
+| Module                            | Version                                                         | URL                                                              |
+| --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            |
 
 
 
@@ -30,7 +33,7 @@
 ### Module (Recommended)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Image Registry - HyperRegistry    |                                                                 |                                                                  |
+| Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            |
 | GitLab                            |                                                                 |                                                                  |
 | Template ServiceBroker            | 0.1.3                                                           | https://github.com/tmax-cloud/install-tsb/tree/tsb-5.0           |
 | Catalog Controller                | v0.3.0                                                          | https://github.com/tmax-cloud/install-catalog/tree/5.0           |
