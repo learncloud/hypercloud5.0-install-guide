@@ -11,9 +11,9 @@
 | Cert Manager                      | v1.5.4                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cert-manager     |     |
 | Ingress Controller - nginx        | 0.33.0                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-ingress-5.0 |     |
 | Helm Operator                     |                                                                 | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-helm-operator-5.0|     |
-| CSI - NFS                         |                                                                 | https://github.com/learncloud/install-nfs-5.0                    | 구축하기 위한 선행 단계     |
+| CSI - NFS                         |                                                                 | https://github.com/learncloud/install-nfs-5.0                    | Prometheus를 구축하기 위한 선행 단계 |
 | Prometheus                        | v2.11.0                                                         | https://github.com/learncloud/install-prometheus-5.0             |     |
-| MetalLB                           | v0.9.3                                                          | https://github.com/learncloud/install-metallb-5.0                |     |
+| MetalLB                           | v0.9.3                                                          | https://github.com/learncloud/install-metallb-5.0                | HyperAuth, Console을 구축하기 위한 선행 단계 |
 | HyperAuth                         | b1.1.1.37                                                       | https://github.com/learncloud/install-hyperauth-5.0              |     |
 |  API Gateway, Operator            | v5.0.26.6, v5.0.25.16                                           | https://github.com/learncloud/install-hypercloud-5.0             |     |
 | HyperCloud Console, Operator      | 0.5.1.32, 5.1.0.1                                               | https://github.com/learncloud/install-console-5.0                |     |
