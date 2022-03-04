@@ -7,8 +7,8 @@
 | External DNS                      |                                                                 |                                                                  |
 | Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |
 | Image Registry - HyperRegistry    |                                                                 |                                                                  |
-| Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  |                                                                  |
-| CNI - Calico                      | 3.16.6                                                          |                                                                  |
+| Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  | https://github.com/learncloud/install-k8s-5.0                    |
+| CNI - Calico                      | 3.16.6                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cni-5.0    |
 | CSI - NFS                         |                                                                 |                                                                  |
 | CSI - Ceph                        |                                                                 |                                                                  |
 | Cert Manager                      | v1.5.4                                                          |                                                                  |
