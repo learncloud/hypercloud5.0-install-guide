@@ -31,9 +31,10 @@
 ### Module (Recommended)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Tekton CI/CD                      | Pipeline: v0.26.0<br>Trigger: v0.15.0<br>CI/CD Operator: v0.4.2 | https://github.com/tmax-cloud/install-tekton/tree/5.0            |
-| Catalog Controller                | v0.3.0                                                          | https://github.com/tmax-cloud/install-catalog/tree/5.0           |
+
 | Template ServiceBroker            | 0.1.3                                                           | https://github.com/tmax-cloud/install-tsb/tree/tsb-5.0           |
+| Catalog Controller                | v0.3.0                                                          | https://github.com/tmax-cloud/install-catalog/tree/5.0           |
+| Tekton CI/CD                      | Pipeline: v0.26.0<br>Trigger: v0.15.0<br>CI/CD Operator: v0.4.2 | https://github.com/tmax-cloud/install-tekton/tree/5.0            |
 | Registry Operator                 | v0.3.1                                                          | https://github.com/tmax-cloud/install-registry-operator/tree/5.0 |
 | CAPI                              | v0.3.6                                                          | https://github.com/tmax-cloud/install-capi/tree/5.0              |
 | KubeFed                           | v0.3.0                                                          | https://github.com/tmax-cloud/install-federation/tree/5.0        |
