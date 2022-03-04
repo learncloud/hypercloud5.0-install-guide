@@ -6,7 +6,6 @@
 | OS & Packages                     | ProLinux8.2                                                     | https://github.com/learncloud/build-local-repo-prolinux8.2       |
 | External DNS                      |                                                                 |                                                                  |
 | Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |
-| Image Registry - HyperRegistry    |                                                                 |                                                                  |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  | https://github.com/learncloud/install-k8s-5.0                    |
 | CNI - Calico                      | 3.16.6                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cni-5.0    |
 | Cert Manager                      | v1.5.4                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cert-manager     |
@@ -19,7 +18,7 @@
 |  API Gateway, Operator            | v5.0.26.6, v5.0.25.16                                           | https://github.com/learncloud/install-hypercloud-5.0             |
 | HyperCloud Console, Operator      | 0.5.1.32, 5.1.0.1                                               | https://github.com/learncloud/install-console-5.0                |
 | CSI - Ceph                        |                                                                 |                                                                  |
-| GitLab                            |                                                                 |                                                                  |
+
 
 
 
@@ -31,6 +30,8 @@
 ### Module (Recommended)
 | Module                            | Version                                                         | URL                                                              |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Image Registry - HyperRegistry    |                                                                 |                                                                  |
+| GitLab                            |                                                                 |                                                                  |
 | Template ServiceBroker            | 0.1.3                                                           | https://github.com/tmax-cloud/install-tsb/tree/tsb-5.0           |
 | Catalog Controller                | v0.3.0                                                          | https://github.com/tmax-cloud/install-catalog/tree/5.0           |
 | Tekton CI/CD                      | Pipeline: v0.26.0<br>Trigger: v0.15.0<br>CI/CD Operator: v0.4.2 | https://github.com/tmax-cloud/install-tekton/tree/5.0            |
