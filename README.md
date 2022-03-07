@@ -24,6 +24,7 @@
 | Module                            | Version                                                         | URL                                                              | ETC |
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | --- |
 | Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            | CI/CD를 구축하기 위한 선행 단계   |
+| Helm                              | v3                                                              | https://github.com/learncloud/install-helm-v3.0                  | CI/CD를 구축하기 위한 선행 단계   |
 
 
 
@@ -57,7 +58,7 @@
 | Nvidia GPU               |                      | https://github.com/tmax-cloud/install-nvidia-gpu-infra/tree/5.0         |
 | KubeFlow                 | v1.0.2               | https://github.com/tmax-cloud/install-ai-devops/tree/main               |
 | EFK                      | 7.2.0, v1.4.2, 7.2.0 | https://github.com/tmax-cloud/install-EFK/tree/5.0                      |
-| Helm                     | v3                   | https://github.com/tmax-cloud/install-helm/tree/master                  |
+
 | ChartMuseum              |                      | https://github.com/tmax-cloud/install-helm-repository/tree/master       |
 | ovirt                    | 4.4.3                | https://github.com/tmax-cloud/install-ovirt/tree/main                   |
 | OLM                      | 0.15.1               | https://github.com/tmax-cloud/install-OLM/tree/main                     |
