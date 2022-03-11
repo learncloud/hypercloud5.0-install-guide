@@ -17,7 +17,7 @@
 | HyperAuth                         | b1.1.1.37                                                       | https://github.com/learncloud/install-hyperauth-5.0              |     |
 |  API Gateway, Operator            | v5.0.26.6, v5.0.25.16                                           | https://github.com/learncloud/install-hypercloud-5.0             |     |
 | HyperCloud Console, Operator      | 0.5.1.32, 5.1.0.1                                               | https://github.com/learncloud/install-console-5.0                |     |
-| CSI - Ceph                        |                                                                 |                                                                  |     |
+| CSI - Ceph                        |                                                                 |                                                                  | v5.0에서는 사용 불가    |
 
 <br><br>
 ### Module (Recommended)
