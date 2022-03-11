@@ -25,7 +25,7 @@
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | --- |
 | Image Registry - HyperRegistry    |                                                                 | https://github.com/learncloud/HyperRegistry-Chart-5.0            | CI/CD를 구축하기 위한 선행 단계   |
 | Helm                              | v3                                                              | https://github.com/learncloud/install-helm-v3.0                  | CI/CD를 구축하기 위한 선행 단계   |
-| GitLab                            |                                                                 |https://github.com/learncloud/install-gitlab-5.0                  | CI/CD를 구축하기 위한 선행 단계   |
+| GitLab                            |                                                                 |https://github.com/learncloud/install-gitlab-5.0                  | CI/CD를 구축하기 위한 선행 단계   | 
 
 
 
