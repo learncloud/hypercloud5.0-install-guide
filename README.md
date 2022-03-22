@@ -28,7 +28,7 @@
 | Catalog Controller                | v0.3.0                                                          | https://github.com/learncloud/install-Catalog-Controller-5.0     | CI/CD를 구축하기 위한 선행 단계   |
 | Template ServiceBroker            | 0.1.3                                                           | https://github.com/learncloud/install-tsb-5.0                    | CI/CD를 구축하기 위한 선행 단계   |
 | GitLab                            |                                                                 |https://github.com/learncloud/install-gitlab-5.0                  | CI/CD를 구축하기 위한 선행 단계   | 
-| Tekton CI/CD                      | Pipeline: v0.26.0, Trigger: v0.15.0, CI/CD Operator: v0.4.2 | https://github.com/learncloud/install-tektoncicd-5.0            |
+| Tekton CI/CD                      | Pipeline: v0.26.0 <br> Trigger: v0.15.0 <br> CI/CD Operator: v0.4.2 | https://github.com/learncloud/install-tektoncicd-5.0            |
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
