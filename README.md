@@ -68,3 +68,4 @@
 | registry-operator        | v0.3.1               | https://github.com/tmax-cloud/install-registry-operator/tree/5.0        |     |
 | image-validating-webhook | ???                  | https://github.com/tmax-cloud/install-image-validating-webhook/tree/5.0 |     |
 | HAProxy & Keepalived     | 1.5.18, 1.3.5        | https://github.com/tmax-cloud/install-haproxy/tree/5.0 |
+
