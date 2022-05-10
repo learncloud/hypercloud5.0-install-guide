@@ -1,4 +1,4 @@
-# HyperCloud 5 Install Guide Navigator
+# HyperCloud 5.0 Install Guide Navigator
 
 ### Module (Required)
 | Module                            | Version                                                         | URL                                                              | ETC |
