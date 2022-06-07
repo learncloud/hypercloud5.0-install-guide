@@ -32,7 +32,7 @@
 | GitLab                            |                                                                 |https://github.com/learncloud/install-gitlab-5.0                  | CI/CD를 구축하기 위한 선행 단계   | 
 | CI/CD Catalog                    |  | https://github.com/learncloud/bulid-tekton-cicd-catalog/tree/main/was/_common        | CI/CD를 구축하기 위한 선행 단계 |
 | Tekton CI/CD                      | Pipeline: v0.26.0 <br> Trigger: v0.15.0 <br> CI/CD Operator: v0.4.2 | https://github.com/learncloud/install-tektoncicd-5.0        | |
-| Istio                    | v1.5.1               | 파일 넣어야함, 그리고 오타잇음 (jaeger~라고 치환해야하는데 jager라고 잘못 치환하는 )                   |     |
+| Istio                    | v1.5.1               | 파일 넣어야함, 그리고 원본 깃헙에 오타잇음 (jaeger~라고 치환해야하는데 jager라고 잘못 치환하는 )                   |     |
 
 
 <br><br><br><br><br><br><br><br><br><br><br>
