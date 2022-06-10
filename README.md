@@ -8,8 +8,8 @@
 | OS & Packages                     | ProLinux8.2                                                     | https://github.com/learncloud/build-local-repo-prolinux8.2       |     |
 | External DNS                      |                                                                 |                                                                  |     |
 | Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |     |
-| CSI - NFS                         |                                                                 | https://github.com/learncloud/install-nfs-5.0                    | Prometheus를 구축하기 위한 선행 단계 |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  | https://github.com/learncloud/install-k8s-5.0                    |     |
+| CSI - NFS                         |                                                                 | https://github.com/learncloud/install-nfs-5.0                    | Prometheus를 구축하기 위한 선행 단계 |
 | CNI - Calico                      | 3.16.6                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cni-5.0    |     |
 | Cert Manager                      | v1.5.4                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-cert-manager     |     |
 | Ingress Controller - nginx        | 0.33.0                                                          | https://github.com/learncloud/k8srepo/tree/main/v5.0/install-ingress-5.0 |     |
