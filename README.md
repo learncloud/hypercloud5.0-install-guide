@@ -7,7 +7,7 @@
 | --------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------- | --- |
 | OS & Packages                     | ProLinux8.2                                                     | https://github.com/learncloud/build-local-repo-prolinux8.2       |     |
 | External DNS                      |                                                                 |                                                                  |     |
-| Podman  (docker 대체제)            |                                                                 |                                                                  |     |
+| Podman  (docker 대체제)            |     https://github.com/tmax-cloud/install-registry/blob/5.0/podman.md                                                            |                                                                  |     |
 | Image Registry - Docker           | Docker version 20.10.12                                         | https://github.com/learncloud/install-registry-docker-ce         |     |
 | Kubernetes & CRI-O                | 1.19.1, 1.19.4                                                  | https://github.com/learncloud/install-k8s-5.0                    |     |
 | CSI - NFS                         |                                                                 | https://github.com/learncloud/install-nfs-5.0                    | Prometheus를 구축하기 위한 선행 단계 |
